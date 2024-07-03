@@ -8,11 +8,11 @@ const Header = () => {
             E-Com
           </Link>
           <ul className="flex">
-            <li>
+            {/* <li>
               <Link className="btn btn-ghost rounded-btn" href="/cart">
                 Cart
               </Link>
-            </li>
+            </li> */}
             <li>
               <Link href="/signin" className="btn bt-ghost rounded-btn">
                 Sign in
